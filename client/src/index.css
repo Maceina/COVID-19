@@ -11,3 +11,25 @@ code {
   font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
     monospace;
 }
+ul{
+  list-style-type: none;
+}
+.selected{
+  margin: 25px;
+}
+.chartDisplay{
+  margin-left: 5%;
+  margin-right: 5%;
+  margin-bottom: 5%;
+}
+.dropdown-menu {
+  height: 1000%;
+  overflow-y: scroll;
+}
+.selectButton{
+  margin-top: 1%;
+}
+.dropdown-toggle,
+.dropdown-menu {
+  width: 50%;
+}
